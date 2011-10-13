@@ -7,8 +7,9 @@ With some refined datasets as well.
 
 Toolkit
 ================================
-**01 - Google Scraper.py** - gets urls from google search results for a keyword.<br>
-**02 - Excel URL Macro** - transfer url text into hyperlinks automatically in Excel.
+**01 - Google Scraper.py** - gets urls from google search results and stores each url in a newline in txt file. Each txt file contains urls from 5 Google search pages.<br>
+**02 - Excel URL Macro** - transfer url text into hyperlinks automatically in Excel.<br>
+**03 - Googler Scraper CSV** - gets urls and Google page numbers, store into a single csv with two columns.<br>
 
 Datasets
 ================================
