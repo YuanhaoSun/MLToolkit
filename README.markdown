@@ -1,13 +1,18 @@
 Toolkit for Privacy policy machine learning experiments
 ================================
 
-Toolkit + Dataset
+This is the toolkit includes many command-line tools to help setup the experiments. </br>
+With some refined datasets as well.
 
 
 Toolkit
 ================================
-**01 - Google Scraper.py** - gets urls from google search results for a keyword.
+**01 - Google Scraper.py** - gets urls from google search results for a keyword.</br>
 **02 - Excel URL Macro** - transfer url text into hyperlinks automatically in Excel.
+
+Datasets
+================================
+*Coming.*
 
 
 Warning: Below are just sample text for further usage.
