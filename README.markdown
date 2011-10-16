@@ -10,6 +10,8 @@ Toolkit
 **01 - Google Scraper.py** - gets urls from google search results and stores each url in a newline in txt file. Each txt file contains urls from 5 Google search pages.<br>
 **02 - Excel URL Macro** - transfer url text into hyperlinks automatically in Excel.<br>
 **03 - Googler Scraper CSV** - gets urls and Google page numbers, store into a single csv with two columns.<br>
+**04 - csv2txt_single** - gets lines from csv file and write each line into a txt.<br>
+**05 - csv2txt_multi** - gets lines from csv file and write each line into a txt and store the txt files by labels into different folders.<br>
 
 Datasets
 ================================
