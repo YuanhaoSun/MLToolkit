@@ -13,6 +13,7 @@ Toolkit
 **04 - csv2txt_single** - gets lines from .csv file and write each line into a .txt file.<br>
 **05 - csv2txt_multi** - gets lines from .csv file and write each line into a .txt file and store .txt files by labels into different folders.<br>
 **06 - ParagraphParser** - gets all the `<p>` and `<li>` paragraphs from an HTML given its url, stores each paragraph into a separate .txt file.<br>
+**07 - txt2csv** - puts each .txt files in the current folder into one row in a single .csv.<br>
 
 Datasets
 ================================
