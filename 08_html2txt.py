@@ -10,7 +10,7 @@ def html2text(html):
 
 # link = lxml.html.parse('http://www.elsevier.com/privacypolicy')
 link = lxml.html.parse('http://www.google.com/privacy/privacy-policy.html') 
-# Ignore any characte that is not 
+# Ignore any characte that is not ascii coded 
 output = html2text(link).encode('ascii', 'ignore')
 
 f = open('google.txt', 'wb')
