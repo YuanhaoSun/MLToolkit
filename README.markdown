@@ -7,13 +7,14 @@ With some refined datasets as well.
 
 Toolkit
 ================================
-**01 - Google Scraper.py** - gets urls from google search results and stores each url in a newline in txt file. Each txt file contains urls from 5 Google search pages.<br>
-**02 - Excel URL Macro** - transfer url text into hyperlinks automatically in Excel.<br>
-**03 - Googler Scraper CSV** - gets urls and Google page numbers, store into a single csv with two columns.<br>
-**04 - csv2txt_single** - gets lines from .csv file and write each line into a .txt file.<br>
-**05 - csv2txt_multi** - gets lines from .csv file and write each line into a .txt file and store .txt files by labels into different folders.<br>
-**06 - ParagraphParser** - gets all the `<p>` and `<li>` paragraphs from an HTML given its url, stores each paragraph into a separate .txt file.<br>
-**07 - txt2csv** - puts each .txt files in the current folder into one row in a single .csv.<br>
+**01_google_scraper.py** - gets urls from google search results and stores each url in a newline in txt file. Each txt file contains urls from 5 Google search pages.<br>
+**02_excel_url_macro.vb** - transfer url text into hyperlinks automatically in Excel.<br>
+**03_googler_scraper_csv** - gets urls and Google page numbers, store into a single csv with two columns.<br>
+**04_csv2txt_single** - gets lines from .csv file and write each line into a .txt file.<br>
+**05_csv2txt_multi** - gets lines from .csv file and write each line into a .txt file and store .txt files by labels into different folders.<br>
+**06_paragraph_parser** - gets all the `<p>` and `<li>` paragraphs from an HTML given its url, stores each paragraph into a separate .txt file.<br>
+**07_txt2csv** - translates each .txt files in the current folder into one row in a single .csv.<br>
+**08_html2txt** - translates a whole .html page into a whole .txt file. Derived from an online post: http://groups.google.com/group/cn.bbs.comp.lang.python/browse_thread/thread/781a357e2ce66ce8
 
 Datasets
 ================================
