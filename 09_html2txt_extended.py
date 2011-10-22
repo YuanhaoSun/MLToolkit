@@ -60,7 +60,7 @@ def getDomain(url, tlds):
 # http://groups.google.com/group/cn.bbs.comp.lang.python/browse_thread/thread/781a357e2ce66ce8
 def html2text(html):
     tree = lxml.etree.fromstring(html, lxml.etree.HTMLParser()) if isinstance(html, basestring) else html 
-    for skiptag in ('//script', '//iframe'):    
+    for skiptag in ('//script', '//iframe', '//style'):    
         for node in tree.xpath(skiptag):
             node.getparent().remove(node)
     # return lxml.etree.tounicode(tree, method='text')
