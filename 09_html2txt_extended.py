@@ -60,7 +60,8 @@ def getDomain(url, tlds):
 # http://groups.google.com/group/cn.bbs.comp.lang.python/browse_thread/thread/781a357e2ce66ce8
 def html2text(html):
     tree = lxml.etree.fromstring(html, lxml.etree.HTMLParser()) if isinstance(html, basestring) else html 
-    for skiptag in ('//script', '//iframe', '//style'):    
+    for skiptag in ('//script', '//iframe', '//style', 
+                    '//link', '//meta', '//noscript', '//option'):    
         for node in tree.xpath(skiptag):
             node.getparent().remove(node)
     # return lxml.etree.tounicode(tree, method='text')
@@ -98,15 +99,19 @@ for line in ppfile:
         htmltree = lxml.html.parse(line)
         print line
     except IOError:
-        print 'cannot open:', line
+        print 'cannot open: ', line
         continue 
     f = open('txtout/'+domain+'.txt', 'wb')
     # html2txt
     # Ignore any characte that is not ascii coded
-    output = html2text(htmltree).encode('ascii', 'ignore')
+    try:
+        output = html2text(htmltree).encode('ascii', 'ignore')
+    except:
+        print 'unexpected error for ', line
+        continue 
     # cleanup
     cleaned = textcleanup(output)
     f.write(cleaned)
     f.close()
 
-print 'Done!'
+print 'All done!'
