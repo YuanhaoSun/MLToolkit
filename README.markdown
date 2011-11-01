@@ -14,8 +14,8 @@ Toolkit
 **05_csv2txt_multi** - gets lines from .csv file and write each line into a .txt file and store .txt files by labels into different folders.<br>
 **06_paragraph_parser** - gets all the `<p>` and `<li>` paragraphs from an HTML given its url, stores each paragraph into a separate .txt file.<br>
 **07_txt2csv** - translates each .txt files in the current folder into one row in a single .csv.<br>
-**08_html2txt** - translates a whole .html page into a whole .txt file.
-**09_html2txt_extended** - well-refined version of html2txt, see print __doc__ for details.
+**08_html2txt** - translates a whole .html page into a whole .txt file.<br>
+**09_html2txt_extended** - well-refined version of html2txt, see print __doc__ for details.<br>
 
 Datasets
 ================================
