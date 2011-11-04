@@ -15,6 +15,7 @@ from __future__ import with_statement
 from urlparse import urlparse
 
 import os
+import re
 import StringIO
 import lxml.html
 
@@ -78,6 +79,8 @@ def textcleanup(text):
     for s in text.splitlines():
         # Strip out meaningless spaces and tabs
         s = s.strip()
+        # New improvement: removing all extra spaces
+        re.sub(r' +', ' ', s)
         # Set length limit
         if s.__len__() > 35:
             text_list.append(s)
