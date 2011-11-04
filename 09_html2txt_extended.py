@@ -82,7 +82,7 @@ def textcleanup(text):
         # Strip out meaningless spaces and tabs
         s = s.strip()
         # New improvement: removing all extra spaces
-        re.sub(r' +', ' ', s)
+        s = re.sub(r' +', ' ', s)
         # Set length limit
         if s.__len__() > 35:
             text_list.append(s)
