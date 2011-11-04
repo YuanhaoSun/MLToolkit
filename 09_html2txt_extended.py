@@ -19,6 +19,8 @@ import re
 import StringIO
 import lxml.html
 
+from urllib2 import urlopen
+
 print __doc__
 
 
@@ -99,7 +101,7 @@ for line in ppfile:
     line = line.rstrip('\n')
     # parse
     try:
-        htmltree = lxml.html.parse(line)
+        htmltree = lxml.html.parse(urlopen(line))
         print line
     except IOError:
         print 'cannot open: ', line
