@@ -16,6 +16,7 @@ Toolkit
 **07_txt2csv** - translates each .txt files in the current folder into one row in a single .csv.<br>
 **08_html2txt** - translates a whole .html page into a whole .txt file.<br>
 **09_html2txt_extended** - well-refined version of html2txt, see print __doc__ for details.<br>
+**10_html2txt_v3** - further improved version of html2txt, add in the library of html2text, more robust and close to the webpage now, see print __doc__ for details.<br>
 
 Datasets
 ================================
