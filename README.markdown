@@ -24,6 +24,15 @@ Datasets
 *Coming.*
 
 
+Setup boilerpipe-1.2.0 in Python
+================================
+We use library biolderpipe for the finest way in extracting text from web pages, i.e. html2txt.
+It is an open source java library, so, we need to port it in order to use it in Python, below we describe how to setup this up.
+
+*Jython* 
+
+
+
 Warning: Below are just sample text for further usage.
 ================================
 
