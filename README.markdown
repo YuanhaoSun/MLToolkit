@@ -18,6 +18,7 @@ Toolkit
 **09_html2txt_extended** - well-refined version of html2txt, see print __doc__ for details.<br>
 **10_html2txt_v3** - further improved version of html2txt, add in the library of html2text, more robust and close to the webpage now, see print __doc__ for details.<br>
 **11_html2txt_v3_two_outputs** - v3 of html2txt exports into two files of each url using both HTML2Text and lxml.<br>
+**12_html2txt_boilerpipe_cleanup** -snippet to cleanup files generated from BoilerPipe html2txt (see folder 'html2txt').<br>
 
 Datasets
 ================================
