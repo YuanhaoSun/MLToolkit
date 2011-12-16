@@ -1,0 +1,5 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots")
+library("ggplot2")
+mydata = read.csv("01_f1.csv")
+qplot(DatasetSize, f1, data=mydata, colour=classifier)
+qplot(DatasetSize, f1, data=mydata, geom='line', color=classifier)

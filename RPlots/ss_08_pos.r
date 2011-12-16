@@ -1,0 +1,6 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots")
+library("ggplot2")
+featuresdata = read.csv("ss_08_pos.csv")
+p <- ggplot(featuresdata, aes(x=run, y=f1, group=Options))+ labs(x = "Run Number", y = "F1 score" )
+q <- p + geom_point(aes(color=Options, shape=Options), size = 3) + geom_line(aes(color=Options))
+q + facet_grid(comb ~ ., scale = "free_y")

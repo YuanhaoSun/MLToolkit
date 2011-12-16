@@ -1,0 +1,7 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots")
+library("ggplot2")
+featuresdata = read.csv("ss_04_02_8class_stopwords_not.csv")
+p <- ggplot(featuresdata, aes(x=run, y=f1, group=stopword_options))+ labs(x = "Run Number", y = "F1 score" )
+p + geom_point(aes(color=stopword_options, shape=stopword_options), size = 3) + geom_line(aes(color=stopword_options))
+# p + stat_smooth(se = FALSE, aes(color=stopword_options)) + geom_point(aes(color=option, shape=option), size = 3) 
+# q + facet_grid(metrics ~ ., scale = "free_y")
