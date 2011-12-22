@@ -1,0 +1,6 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots/ss_test")
+library("ggplot2")
+featuresdata = read.csv("ss_test_01_4MLoptions_3classifiers_3class.csv")
+p <- ggplot(featuresdata, aes(x=features, y=f1, group=Options))+ labs(x = "Percentage of selected features (%)", y = "F1 score from 10X10 CV" )
+q <- p + stat_smooth(se = FALSE, aes(color=Options)) + geom_point(aes(color=Options, shape=Options)) 
+q + facet_grid(comb ~ ., scale = "free_y")

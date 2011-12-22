@@ -1,0 +1,6 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots/ss_test")
+library("ggplot2")
+featuresdata = read.csv("ss_test_02_sim_scores.csv")
+p <- ggplot(featuresdata, aes(x=Similarity_measures, y=Value, fill=F_scores)) + geom_bar(position="dodge")
+p + facet_grid(method ~ type, scale = "free") + labs(x = "Similarity measures")
+# p + facet_grid(method ~ type, scale = "free") +  coord_cartesian(ylim = c(0.3, 1)) 

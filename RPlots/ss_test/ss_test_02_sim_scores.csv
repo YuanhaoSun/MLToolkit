@@ -1,0 +1,73 @@
+method,type,Similarity_measures,F_scores,Value
+Averaging,Word overlap measures,Overl.,3cls. F1,0.87054
+Averaging,Word overlap measures,Overl.,3cls. F.5,0.89142
+Averaging,Word overlap measures,Overl.,8cls. F1,0.58762
+Averaging,Word overlap measures,Overl.,8cls. F.5,0.67137
+Averaging,Word overlap measures,IDF,3cls. F1,0.87826
+Averaging,Word overlap measures,IDF,3cls. F.5,0.92441
+Averaging,Word overlap measures,IDF,8cls. F1,0.64651
+Averaging,Word overlap measures,IDF,8cls. F.5,0.70538
+Averaging,Word overlap measures,Phra.,3cls. F1,0.85052
+Averaging,Word overlap measures,Phra.,3cls. F.5,0.87627
+Averaging,Word overlap measures,Phra.,8cls. F1,0.48193
+Averaging,Word overlap measures,Phra.,8cls. F.5,0.51747
+Averaging,Semantic measures,Alpha,3cls. F1,0.52765
+Averaging,Semantic measures,Alpha,3cls. F.5,0.69126
+Averaging,Semantic measures,Alpha,8cls. F1,0.3773
+Averaging,Semantic measures,Alpha,8cls. F.5,0.4183
+Averaging,Semantic measures,POS,3cls. F1,0.37941
+Averaging,Semantic measures,POS,3cls. F.5,0.57129
+Averaging,Semantic measures,POS,8cls. F1,0.24174
+Averaging,Semantic measures,POS,8cls. F.5,0.24085
+Averaging,Semantic measures,Int.Max,3cls. F1,0.583
+Averaging,Semantic measures,Int.Max,3cls. F.5,0.69516
+Averaging,Semantic measures,Int.Max,8cls. F1,0.46109
+Averaging,Semantic measures,Int.Max,8cls. F.5,0.5307
+Averaging,Syntactic measures,WrdOr.,3cls. F1,0.70401
+Averaging,Syntactic measures,WrdOr.,3cls. F.5,0.79139
+Averaging,Syntactic measures,WrdOr.,8cls. F1,0.65951
+Averaging,Syntactic measures,WrdOr.,8cls. F.5,0.70575
+Averaging,Syntactic measures,Hy_0.8,3cls. F1,0.62192
+Averaging,Syntactic measures,Hy_0.8,3cls. F.5,0.74664
+Averaging,Syntactic measures,Hy_0.8,8cls. F1,0.64005
+Averaging,Syntactic measures,Hy_0.8,8cls. F.5,0.71952
+Averaging,Syntactic measures,Hy_0.5,3cls. F1,0.72469
+Averaging,Syntactic measures,Hy_0.5,3cls. F.5,0.80475
+Averaging,Syntactic measures,Hy_0.5,8cls. F1,0.66332
+Averaging,Syntactic measures,Hy_0.5,8cls. F.5,0.71274
+ML aided,Word overlap measures,Overl.,3cls. F1,0.9043
+ML aided,Word overlap measures,Overl.,3cls. F.5,0.91191
+ML aided,Word overlap measures,Overl.,8cls. F1,0.73901
+ML aided,Word overlap measures,Overl.,8cls. F.5,0.76266
+ML aided,Word overlap measures,IDF,3cls. F1,0.93224
+ML aided,Word overlap measures,IDF,3cls. F.5,0.94041
+ML aided,Word overlap measures,IDF,8cls. F1,0.60807
+ML aided,Word overlap measures,IDF,8cls. F.5,0.63528
+ML aided,Word overlap measures,Phra.,3cls. F1,0.82016
+ML aided,Word overlap measures,Phra.,3cls. F.5,0.82588
+ML aided,Word overlap measures,Phra.,8cls. F1,0.52198
+ML aided,Word overlap measures,Phra.,8cls. F.5,0.54588
+ML aided,Semantic measures,Alpha,3cls. F1,0.81493
+ML aided,Semantic measures,Alpha,3cls. F.5,0.83483
+ML aided,Semantic measures,Alpha,8cls. F1,0.52892
+ML aided,Semantic measures,Alpha,8cls. F.5,0.55814
+ML aided,Semantic measures,POS,3cls. F1,0.89812
+ML aided,Semantic measures,POS,3cls. F.5,0.91933
+ML aided,Semantic measures,POS,8cls. F1,0.7976
+ML aided,Semantic measures,POS,8cls. F.5,0.80612
+ML aided,Semantic measures,Int.Max,3cls. F1,0.79445
+ML aided,Semantic measures,Int.Max,3cls. F.5,0.80099
+ML aided,Semantic measures,Int.Max,8cls. F1,0.49895
+ML aided,Semantic measures,Int.Max,8cls. F.5,0.47693
+ML aided,Syntactic measures,WrdOr.,3cls. F1,0.81225
+ML aided,Syntactic measures,WrdOr.,3cls. F.5,0.83034
+ML aided,Syntactic measures,WrdOr.,8cls. F1,0.71476
+ML aided,Syntactic measures,WrdOr.,8cls. F.5,0.74045
+ML aided,Syntactic measures,Hy_0.8,3cls. F1,0.83931
+ML aided,Syntactic measures,Hy_0.8,3cls. F.5,0.85739
+ML aided,Syntactic measures,Hy_0.8,8cls. F1,0.78898
+ML aided,Syntactic measures,Hy_0.8,8cls. F.5,0.80966
+ML aided,Syntactic measures,Hy_0.5,3cls. F1,0.8502
+ML aided,Syntactic measures,Hy_0.5,3cls. F.5,0.8578
+ML aided,Syntactic measures,Hy_0.5,8cls. F1,0.71542
+ML aided,Syntactic measures,Hy_0.5,8cls. F.5,0.7416
