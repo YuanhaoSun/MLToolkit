@@ -1,0 +1,6 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots/class")
+library("ggplot2")
+featuresdata = read.csv("class_01_performance_by_size_of_training.csv")
+p <- ggplot(featuresdata, aes(x=samplenum, y=f1, group=classifier))+ labs(x = "Number of Samples", y = "F1 from 10X10 CV" )
+p + stat_smooth(se = FALSE, aes(color=classifier)) + geom_point(aes(color=classifier, shape=classifier)) 
+# q + facet_grid(metrics ~ ., scale = "free_y")

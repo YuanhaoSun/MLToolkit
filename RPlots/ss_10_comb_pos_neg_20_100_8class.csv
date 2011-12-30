@@ -1,0 +1,329 @@
+comb,Options,features,f1
+8-class NB,Baseline,20,0.747402534
+8-class NB,Baseline,22,0.747777574
+8-class NB,Baseline,24,0.748020544
+8-class NB,Baseline,26,0.718362853
+8-class NB,Baseline,28,0.728457878
+8-class NB,Baseline,30,0.738797223
+8-class NB,Baseline,32,0.720481604
+8-class NB,Baseline,34,0.721218968
+8-class NB,Baseline,36,0.735282736
+8-class NB,Baseline,38,0.743584869
+8-class NB,Baseline,40,0.745521815
+8-class NB,Baseline,42,0.740736943
+8-class NB,Baseline,44,0.751861691
+8-class NB,Baseline,46,0.747111424
+8-class NB,Baseline,48,0.747035503
+8-class NB,Baseline,50,0.732406656
+8-class NB,Baseline,52,0.778486582
+8-class NB,Baseline,54,0.778190753
+8-class NB,Baseline,56,0.774215161
+8-class NB,Baseline,58,0.767252958
+8-class NB,Baseline,60,0.782342204
+8-class NB,Baseline,62,0.781510157
+8-class NB,Baseline,64,0.783029519
+8-class NB,Baseline,66,0.779459836
+8-class NB,Baseline,68,0.782057494
+8-class NB,Baseline,70,0.778227783
+8-class NB,Baseline,72,0.778961148
+8-class NB,Baseline,74,0.777135204
+8-class NB,Baseline,76,0.771601512
+8-class NB,Baseline,78,0.759078336
+8-class NB,Baseline,80,0.746576032
+8-class NB,Baseline,82,0.739874092
+8-class NB,Baseline,84,0.733974089
+8-class NB,Baseline,86,0.73397545
+8-class NB,Baseline,88,0.735472722
+8-class NB,Baseline,90,0.717773283
+8-class NB,Baseline,92,0.717305269
+8-class NB,Baseline,94,0.711676987
+8-class NB,Baseline,96,0.694187569
+8-class NB,Baseline,98,0.682107862
+8-class NB,Baseline,100,0.681945203
+8-class NB,POS rep.,20,0.726884117
+8-class NB,POS rep.,22,0.755817625
+8-class NB,POS rep.,24,0.770060569
+8-class NB,POS rep.,26,0.766609237
+8-class NB,POS rep.,28,0.784683812
+8-class NB,POS rep.,30,0.775201597
+8-class NB,POS rep.,32,0.769988747
+8-class NB,POS rep.,34,0.799112649
+8-class NB,POS rep.,36,0.799112649
+8-class NB,POS rep.,38,0.797490314
+8-class NB,POS rep.,40,0.80725935
+8-class NB,POS rep.,42,0.796373836
+8-class NB,POS rep.,44,0.797220898
+8-class NB,POS rep.,46,0.804781029
+8-class NB,POS rep.,48,0.80425986
+8-class NB,POS rep.,50,0.807819663
+8-class NB,POS rep.,52,0.805119433
+8-class NB,POS rep.,54,0.792926431
+8-class NB,POS rep.,56,0.804596894
+8-class NB,POS rep.,58,0.801231036
+8-class NB,POS rep.,60,0.803582095
+8-class NB,POS rep.,62,0.78161487
+8-class NB,POS rep.,64,0.787153384
+8-class NB,POS rep.,66,0.784327086
+8-class NB,POS rep.,68,0.777245083
+8-class NB,POS rep.,70,0.777245083
+8-class NB,POS rep.,72,0.770797548
+8-class NB,POS rep.,74,0.756304452
+8-class NB,POS rep.,76,0.756304452
+8-class NB,POS rep.,78,0.747486506
+8-class NB,POS rep.,80,0.749340467
+8-class NB,POS rep.,82,0.748279661
+8-class NB,POS rep.,84,0.730824869
+8-class NB,POS rep.,86,0.730458525
+8-class NB,POS rep.,88,0.726713454
+8-class NB,POS rep.,90,0.708504755
+8-class NB,POS rep.,92,0.709390555
+8-class NB,POS rep.,94,0.703325419
+8-class NB,POS rep.,96,0.692472973
+8-class NB,POS rep.,98,0.692472973
+8-class NB,POS rep.,100,0.687854015
+8-class NB,Neg Bi.,20,0.767313423
+8-class NB,Neg Bi.,22,0.778689983
+8-class NB,Neg Bi.,24,0.777315057
+8-class NB,Neg Bi.,26,0.769489486
+8-class NB,Neg Bi.,28,0.779820569
+8-class NB,Neg Bi.,30,0.744603583
+8-class NB,Neg Bi.,32,0.733248394
+8-class NB,Neg Bi.,34,0.7332005
+8-class NB,Neg Bi.,36,0.749335523
+8-class NB,Neg Bi.,38,0.742445141
+8-class NB,Neg Bi.,40,0.752865599
+8-class NB,Neg Bi.,42,0.756249937
+8-class NB,Neg Bi.,44,0.751630562
+8-class NB,Neg Bi.,46,0.759819639
+8-class NB,Neg Bi.,48,0.768910613
+8-class NB,Neg Bi.,50,0.772182668
+8-class NB,Neg Bi.,52,0.778692643
+8-class NB,Neg Bi.,54,0.772754927
+8-class NB,Neg Bi.,56,0.800975399
+8-class NB,Neg Bi.,58,0.797487198
+8-class NB,Neg Bi.,60,0.796615031
+8-class NB,Neg Bi.,62,0.802215082
+8-class NB,Neg Bi.,64,0.787793894
+8-class NB,Neg Bi.,66,0.795245966
+8-class NB,Neg Bi.,68,0.79347767
+8-class NB,Neg Bi.,70,0.792239327
+8-class NB,Neg Bi.,72,0.793448017
+8-class NB,Neg Bi.,74,0.780279361
+8-class NB,Neg Bi.,76,0.776138254
+8-class NB,Neg Bi.,78,0.776138254
+8-class NB,Neg Bi.,80,0.759325968
+8-class NB,Neg Bi.,82,0.749052826
+8-class NB,Neg Bi.,84,0.74403944
+8-class NB,Neg Bi.,86,0.747030777
+8-class NB,Neg Bi.,88,0.731496443
+8-class NB,Neg Bi.,90,0.722726668
+8-class NB,Neg Bi.,92,0.714877821
+8-class NB,Neg Bi.,94,0.722078279
+8-class NB,Neg Bi.,96,0.71201052
+8-class NB,Neg Bi.,98,0.708916453
+8-class NB,Neg Bi.,100,0.708379295
+8-class NB,Comb.,20,0.77828604
+8-class NB,Comb.,22,0.78748083
+8-class NB,Comb.,24,0.772876195
+8-class NB,Comb.,26,0.792107915
+8-class NB,Comb.,28,0.77767487
+8-class NB,Comb.,30,0.801040192
+8-class NB,Comb.,32,0.779637296
+8-class NB,Comb.,34,0.788180683
+8-class NB,Comb.,36,0.785983714
+8-class NB,Comb.,38,0.816892556
+8-class NB,Comb.,40,0.814977831
+8-class NB,Comb.,42,0.816328525
+8-class NB,Comb.,44,0.817623709
+8-class NB,Comb.,46,0.823303914
+8-class NB,Comb.,48,0.816592627
+8-class NB,Comb.,50,0.817152887
+8-class NB,Comb.,52,0.816362266
+8-class NB,Comb.,54,0.816097736
+8-class NB,Comb.,56,0.825249507
+8-class NB,Comb.,58,0.808968121
+8-class NB,Comb.,60,0.809981882
+8-class NB,Comb.,62,0.787659567
+8-class NB,Comb.,64,0.790572939
+8-class NB,Comb.,66,0.792208816
+8-class NB,Comb.,68,0.777181442
+8-class NB,Comb.,70,0.7748003
+8-class NB,Comb.,72,0.7748003
+8-class NB,Comb.,74,0.773152487
+8-class NB,Comb.,76,0.773152487
+8-class NB,Comb.,78,0.757647568
+8-class NB,Comb.,80,0.753698994
+8-class NB,Comb.,82,0.745889535
+8-class NB,Comb.,84,0.736794205
+8-class NB,Comb.,86,0.737777543
+8-class NB,Comb.,88,0.723208683
+8-class NB,Comb.,90,0.711252311
+8-class NB,Comb.,92,0.712249165
+8-class NB,Comb.,94,0.708857418
+8-class NB,Comb.,96,0.69957056
+8-class NB,Comb.,98,0.69957056
+8-class NB,Comb.,100,0.700499785
+8-class Ridge,Baseline,20,0.615249984
+8-class Ridge,Baseline,22,0.620927208
+8-class Ridge,Baseline,24,0.622354001
+8-class Ridge,Baseline,26,0.62614541
+8-class Ridge,Baseline,28,0.626863683
+8-class Ridge,Baseline,30,0.629817959
+8-class Ridge,Baseline,32,0.639332119
+8-class Ridge,Baseline,34,0.636041816
+8-class Ridge,Baseline,36,0.631853234
+8-class Ridge,Baseline,38,0.67544246
+8-class Ridge,Baseline,40,0.696850956
+8-class Ridge,Baseline,42,0.685502691
+8-class Ridge,Baseline,44,0.683448945
+8-class Ridge,Baseline,46,0.682810153
+8-class Ridge,Baseline,48,0.679708435
+8-class Ridge,Baseline,50,0.66976737
+8-class Ridge,Baseline,52,0.712638557
+8-class Ridge,Baseline,54,0.715857682
+8-class Ridge,Baseline,56,0.711288479
+8-class Ridge,Baseline,58,0.708652384
+8-class Ridge,Baseline,60,0.702775802
+8-class Ridge,Baseline,62,0.687788966
+8-class Ridge,Baseline,64,0.683387007
+8-class Ridge,Baseline,66,0.682925836
+8-class Ridge,Baseline,68,0.683273412
+8-class Ridge,Baseline,70,0.686408407
+8-class Ridge,Baseline,72,0.695636595
+8-class Ridge,Baseline,74,0.69703847
+8-class Ridge,Baseline,76,0.691341276
+8-class Ridge,Baseline,78,0.692742273
+8-class Ridge,Baseline,80,0.691428503
+8-class Ridge,Baseline,82,0.679940424
+8-class Ridge,Baseline,84,0.688723005
+8-class Ridge,Baseline,86,0.66894816
+8-class Ridge,Baseline,88,0.669474616
+8-class Ridge,Baseline,90,0.668028308
+8-class Ridge,Baseline,92,0.668561001
+8-class Ridge,Baseline,94,0.670338073
+8-class Ridge,Baseline,96,0.667666165
+8-class Ridge,Baseline,98,0.665525584
+8-class Ridge,Baseline,100,0.66539215
+8-class Ridge,POS rep.,20,0.586301887
+8-class Ridge,POS rep.,22,0.634258081
+8-class Ridge,POS rep.,24,0.677645728
+8-class Ridge,POS rep.,26,0.674285118
+8-class Ridge,POS rep.,28,0.653107974
+8-class Ridge,POS rep.,30,0.64930703
+8-class Ridge,POS rep.,32,0.679665323
+8-class Ridge,POS rep.,34,0.685415857
+8-class Ridge,POS rep.,36,0.685415857
+8-class Ridge,POS rep.,38,0.708712648
+8-class Ridge,POS rep.,40,0.729925653
+8-class Ridge,POS rep.,42,0.738847997
+8-class Ridge,POS rep.,44,0.723851381
+8-class Ridge,POS rep.,46,0.742172378
+8-class Ridge,POS rep.,48,0.737784248
+8-class Ridge,POS rep.,50,0.731923453
+8-class Ridge,POS rep.,52,0.739747994
+8-class Ridge,POS rep.,54,0.740390158
+8-class Ridge,POS rep.,56,0.757466385
+8-class Ridge,POS rep.,58,0.766862667
+8-class Ridge,POS rep.,60,0.764294378
+8-class Ridge,POS rep.,62,0.744571353
+8-class Ridge,POS rep.,64,0.746990332
+8-class Ridge,POS rep.,66,0.747907208
+8-class Ridge,POS rep.,68,0.750181424
+8-class Ridge,POS rep.,70,0.750181424
+8-class Ridge,POS rep.,72,0.750198966
+8-class Ridge,POS rep.,74,0.748484748
+8-class Ridge,POS rep.,76,0.748484748
+8-class Ridge,POS rep.,78,0.757497223
+8-class Ridge,POS rep.,80,0.763660188
+8-class Ridge,POS rep.,82,0.765308297
+8-class Ridge,POS rep.,84,0.747557846
+8-class Ridge,POS rep.,86,0.739149341
+8-class Ridge,POS rep.,88,0.725783789
+8-class Ridge,POS rep.,90,0.717783553
+8-class Ridge,POS rep.,92,0.718195388
+8-class Ridge,POS rep.,94,0.720598927
+8-class Ridge,POS rep.,96,0.72025732
+8-class Ridge,POS rep.,98,0.72025732
+8-class Ridge,POS rep.,100,0.720842424
+8-class Ridge,Neg Bi.,20,0.601631054
+8-class Ridge,Neg Bi.,22,0.652571997
+8-class Ridge,Neg Bi.,24,0.653138043
+8-class Ridge,Neg Bi.,26,0.645048636
+8-class Ridge,Neg Bi.,28,0.656497621
+8-class Ridge,Neg Bi.,30,0.65496532
+8-class Ridge,Neg Bi.,32,0.65595353
+8-class Ridge,Neg Bi.,34,0.660919781
+8-class Ridge,Neg Bi.,36,0.660431503
+8-class Ridge,Neg Bi.,38,0.678741933
+8-class Ridge,Neg Bi.,40,0.691249506
+8-class Ridge,Neg Bi.,42,0.690689421
+8-class Ridge,Neg Bi.,44,0.700332722
+8-class Ridge,Neg Bi.,46,0.704825413
+8-class Ridge,Neg Bi.,48,0.700728186
+8-class Ridge,Neg Bi.,50,0.712198142
+8-class Ridge,Neg Bi.,52,0.719607541
+8-class Ridge,Neg Bi.,54,0.711686358
+8-class Ridge,Neg Bi.,56,0.719121181
+8-class Ridge,Neg Bi.,58,0.711461885
+8-class Ridge,Neg Bi.,60,0.718417636
+8-class Ridge,Neg Bi.,62,0.707528947
+8-class Ridge,Neg Bi.,64,0.699920609
+8-class Ridge,Neg Bi.,66,0.699489895
+8-class Ridge,Neg Bi.,68,0.695087455
+8-class Ridge,Neg Bi.,70,0.696452171
+8-class Ridge,Neg Bi.,72,0.695961544
+8-class Ridge,Neg Bi.,74,0.702776198
+8-class Ridge,Neg Bi.,76,0.706608062
+8-class Ridge,Neg Bi.,78,0.706608062
+8-class Ridge,Neg Bi.,80,0.70945742
+8-class Ridge,Neg Bi.,82,0.697270321
+8-class Ridge,Neg Bi.,84,0.700816114
+8-class Ridge,Neg Bi.,86,0.69055403
+8-class Ridge,Neg Bi.,88,0.69377531
+8-class Ridge,Neg Bi.,90,0.684098082
+8-class Ridge,Neg Bi.,92,0.682112818
+8-class Ridge,Neg Bi.,94,0.685608811
+8-class Ridge,Neg Bi.,96,0.672643052
+8-class Ridge,Neg Bi.,98,0.670582894
+8-class Ridge,Neg Bi.,100,0.668735586
+8-class Ridge,Comb.,20,0.625804572
+8-class Ridge,Comb.,22,0.67609545
+8-class Ridge,Comb.,24,0.664835843
+8-class Ridge,Comb.,26,0.680272956
+8-class Ridge,Comb.,28,0.657633842
+8-class Ridge,Comb.,30,0.665518062
+8-class Ridge,Comb.,32,0.666954772
+8-class Ridge,Comb.,34,0.700380017
+8-class Ridge,Comb.,36,0.691917662
+8-class Ridge,Comb.,38,0.734439284
+8-class Ridge,Comb.,40,0.746666563
+8-class Ridge,Comb.,42,0.730455898
+8-class Ridge,Comb.,44,0.732242687
+8-class Ridge,Comb.,46,0.771662941
+8-class Ridge,Comb.,48,0.76254126
+8-class Ridge,Comb.,50,0.76197404
+8-class Ridge,Comb.,52,0.764590973
+8-class Ridge,Comb.,54,0.749761319
+8-class Ridge,Comb.,56,0.751752637
+8-class Ridge,Comb.,58,0.751179069
+8-class Ridge,Comb.,60,0.750658315
+8-class Ridge,Comb.,62,0.736819323
+8-class Ridge,Comb.,64,0.747157967
+8-class Ridge,Comb.,66,0.749685219
+8-class Ridge,Comb.,68,0.748398169
+8-class Ridge,Comb.,70,0.748542597
+8-class Ridge,Comb.,72,0.747156465
+8-class Ridge,Comb.,74,0.742413415
+8-class Ridge,Comb.,76,0.742413415
+8-class Ridge,Comb.,78,0.752547198
+8-class Ridge,Comb.,80,0.754042033
+8-class Ridge,Comb.,82,0.749119433
+8-class Ridge,Comb.,84,0.73545418
+8-class Ridge,Comb.,86,0.729443299
+8-class Ridge,Comb.,88,0.719213884
+8-class Ridge,Comb.,90,0.714171752
+8-class Ridge,Comb.,92,0.701788985
+8-class Ridge,Comb.,94,0.705234481
+8-class Ridge,Comb.,96,0.703015302
+8-class Ridge,Comb.,98,0.703015302
+8-class Ridge,Comb.,100,0.703015302

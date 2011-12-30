@@ -1,0 +1,6 @@
+setwd("D:/Study/Thesis/Experiments/Util/RPlots/class")
+library("ggplot2")
+featuresdata = read.csv("class_02_para_tune_knn.csv")
+p <- ggplot(featuresdata, aes(x=k, y=f1))+ labs(x = "Parameter k", y = "F1 from 10-fold CV Grid Search" )
+p + stat_smooth(se = FALSE, aes(color=classifier)) + geom_point(aes(color=classifier, shape=classifier)) 
+# q + facet_grid(metrics ~ ., scale = "free_y")
